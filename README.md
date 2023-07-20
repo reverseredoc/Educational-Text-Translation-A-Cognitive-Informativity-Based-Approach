@@ -37,7 +37,9 @@ Synthesis → Evaluate
 Evaluate → Create 
 
 The structures of informational texts | Reading | Khan Academy
-https://www.youtube.com/watch?v=D0YUpfLofgQ
+Resource 1: https://www.youtube.com/watch?v=D0YUpfLofgQ
+
+Resource 2: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4491328/
 
 
 
