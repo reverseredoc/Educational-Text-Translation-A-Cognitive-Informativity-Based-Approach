@@ -96,3 +96,8 @@ In the case of a broken sentence (generally rare), the most matching sentence wo
 ### Future goals:
 - explore more about knowledge graphs
 - explore more about embeddings
+
+### Corpus for testing:
+Parallel corpus for french and english (university of pennsylvania)
+- https://www.cis.upenn.edu/~eliors/freng_corpus.html
+- https://live.european-language-grid.eu/catalogue/corpus/3192
