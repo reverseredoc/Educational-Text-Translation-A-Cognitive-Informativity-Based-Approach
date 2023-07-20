@@ -61,6 +61,7 @@ Some common information structures:
 - https://nlpcloud.com/nlp-translation-deep-learning-api.html
 -  https://towardsdatascience.com/how-to-detect-and-translate-languages-for-nlp-project-dfd52af0c3b5
 -  https://www.youtube.com/watch?v=feA-H6blwr4
+-  https://phrase.com/blog/posts/translation-technology/ (an interesting read)
 
 
 # STRATEGY:
