@@ -95,7 +95,7 @@ Hence for each sentence, parse the sentence at the same location as in the origi
 In the case of a broken sentence (generally rare), the most matching sentence would be found but as it won't contain the entire information of the sentence a lower informative similarity score would be assigned which is justified as the sentence is broken into 2 or more parts while translation which affects the readibility of the text.
 
 ### Future goals:
-- explore more about knowledge graphs
+- explore more about knowledge graphs (https://arxiv.org/pdf/2003.02320.pdf)
 - explore more about embeddings
 
 ### Corpus for testing:
