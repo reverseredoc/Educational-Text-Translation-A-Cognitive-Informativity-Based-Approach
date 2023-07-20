@@ -20,10 +20,20 @@ Cognitive Levels:
 Old (1956)        New (2001)
 
 Knowledge → Remembering
+
+
 Comprehension → Understanding
+
+
 Application → Applying
+
+
 Analysis → Analyzing
+
+
 Synthesis → Evaluate
+
+
 Evaluate → Create 
 
 The structures of informational texts | Reading | Khan Academy
