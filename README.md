@@ -41,6 +41,18 @@ Resource 1: https://www.youtube.com/watch?v=D0YUpfLofgQ
 
 Resource 2: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4491328/
 
+### Congnitive Informativity = Cognitive level + Information Structure of the Text
+Cognitive level can be defined as per the bloom's taxanomy but this approach can't be generalised for all languages as literature on bloom's taxanomy only exists for the english language. 
+
+Informativity can be defined by the information structre of the text:
+
+Some common information structures:
+- Descriptive
+- Sequential
+- Compare Contrast
+- Cause - effect
+- Problem Solution representation
+
 # STRATEGY:
 ## Calculating Cognitive Informativity (CI) of text translation:
 ### Mathematical model:
