@@ -63,6 +63,10 @@ Some common information structures:
 -  https://www.youtube.com/watch?v=feA-H6blwr4
 -  https://phrase.com/blog/posts/translation-technology/ (an interesting read)
 
+### Approaches:
+Two broad approaches can be adopted to achieve the purpose:
+1. Develop a general framework to quantify the cognitive informativity of the text of any language and compare the respective scores
+2. Develop a model to find out the relative difference in the informativity of the texts of the 2 language rather than quantifying the informativity of each language's text
 
 # STRATEGY:
 ## Calculating Cognitive Informativity (CI) of text translation:
