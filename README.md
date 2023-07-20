@@ -79,6 +79,10 @@ For these pair of words use a standard dictionary to translate the words to a sa
 ### Extending the single sentence idea to paragraphs:
 Assumption: If the position of a sentence in one language gets shifted to more than 3 sentences away from its original positioning in the translated language then semantic similarity should go down. Also breaking a sentence into 2 or more parts in the translated text should lower the semantic similarity.
 
+### Future goals:
+- explore more about knowledge graphs
+- explore more about embeddings
+
 Hence for each sentence, parse the sentence at the same location as in the original text in the translated text and a sentence before it and a sentence after it to find the most matching sentence using dependency parser/ embeddings and now find the sentence similarity score as explained above.
 
 In the case of a broken sentence (generally rare), the most matching sentence would be found but as it won't contain the entire information of the sentence a lower informative similarity score would be assigned which is justified as the sentence is broken into 2 or more parts while translation which affects the readibility of the text.
