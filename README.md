@@ -10,3 +10,5 @@ E.g. cognitive impairment
 : based on or capable of being reduced to empirical factual knowledge
 
 Informativity is concerned with the extent to which the contents of a text are already known or expected as compared to unknown or unexpected.
+A tutorial about informativity:
+https://slideplayer.com/slide/15477828/
