@@ -53,6 +53,15 @@ Some common information structures:
 - Cause - effect
 - Problem Solution representation
 
+## NLP Resources:
+- https://www.qblocks.cloud/blog/natural-language-processing-machine-translation
+- https://www.analyticssteps.com/blogs/4-types-machine-translation-nlp
+- https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras
+- https://medium.com/swlh/nlp-11ff6aeb8259
+- https://nlpcloud.com/nlp-translation-deep-learning-api.html
+-  https://towardsdatascience.com/how-to-detect-and-translate-languages-for-nlp-project-dfd52af0c3b5
+
+
 # STRATEGY:
 ## Calculating Cognitive Informativity (CI) of text translation:
 ### Mathematical model:
