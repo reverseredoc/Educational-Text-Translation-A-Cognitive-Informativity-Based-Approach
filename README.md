@@ -12,3 +12,23 @@ E.g. cognitive impairment
 Informativity is concerned with the extent to which the contents of a text are already known or expected as compared to unknown or unexpected.
 A tutorial about informativity:
 https://slideplayer.com/slide/15477828/
+
+## Bloom’s Taxonomy
+
+Cognitive Levels:
+
+Old (1956)        New (2001)
+
+Knowledge → Remembering
+Comprehension → Understanding
+Application → Applying
+Analysis → Analyzing
+Synthesis → Evaluate
+Evaluate → Create 
+
+The structures of informational texts | Reading | Khan Academy
+https://www.youtube.com/watch?v=D0YUpfLofgQ
+
+
+
+
